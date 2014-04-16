@@ -1,7 +1,6 @@
 .repl_history
 build
-vendor/Pods
-vendor/Podfile.lock
+vendor
 tags
 app/pixate_code.rb
 resources/*.nib
